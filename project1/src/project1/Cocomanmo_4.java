@@ -2,7 +2,6 @@ package project1;
 
 import java.util.Arrays;
 
-
 public class Cocomanmo_4 {
 	    public int[] solution(int[] array, int[][] commands) {
 	        int[] answer = new int[commands.length]; //commands.length °¡ ÇÊ¼öÀÎ °É ¸ô¶ú³×À¯....
