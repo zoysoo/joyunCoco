@@ -17,7 +17,6 @@ completion의 길이는 participant의 길이보다 1 작습니다.
 	String [] participant =[marina, josipa, nikola, vinko, filipa]
 	String [] completion = [josipa, filipa, marina, nikola]
 */
-
 public class Cocomanmo_1 {
 	class Solution {
 	    public String solution(String[] participant, String[] completion) {
