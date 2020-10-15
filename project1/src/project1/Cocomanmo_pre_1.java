@@ -1,6 +1,7 @@
 package project1;
 
 public class Cocomanmo_pre_1 {
+	
 	class Solution {
 	    public String solution(String[] seoul) {
 	        String answer = "";
