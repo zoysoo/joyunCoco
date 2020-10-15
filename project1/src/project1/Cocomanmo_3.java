@@ -1,6 +1,5 @@
 package project1;
 
-
 public class Cocomanmo_3 {
 	    public String solution(String s) {
 	          String answer = "";
