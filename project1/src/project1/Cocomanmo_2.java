@@ -12,8 +12,7 @@ public class Cocomanmo_2 {
 	            for(int i=b;b<=a;b++) {
 	            answer=answer+b;
 	         }
-	        }
-	        
+	        }	        
 	        return answer;
 	    }
 
