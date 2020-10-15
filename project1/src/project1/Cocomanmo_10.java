@@ -1,6 +1,7 @@
 package project1;
 
 public class Cocomanmo_10 {
+
 	public String solution(String s, int n) {
 		String answer = "";
 		
